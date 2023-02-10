@@ -1,5 +1,4 @@
 <div align="center">
-## Hi there
  
 ## Frontend Developer
 
